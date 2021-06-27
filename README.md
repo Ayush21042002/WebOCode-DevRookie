@@ -5,6 +5,8 @@ A repository for the submission regarding WebOCode competition for the team DevR
 ## EsportsInfo
 ``` The site that introduces you to the esports industry```
 
+### <a href="https://ayush21042002.github.io/WebOCode-DevRookie/">Hosted Website</a>
+
 *The site has been tested on chrome and edge browser and is running appropriately*
 
 ### Development tools used:-
